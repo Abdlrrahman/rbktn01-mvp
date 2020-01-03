@@ -17,28 +17,28 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > The user can write about anything, i't a blog.
+  > The user can write about anything, it's a blog.
 
 ## Sub-Heading ##
   > everyone.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > You can write anthing and it will not be saved.
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > Writing your feelings in a safe environment.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  > By never saving the data.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > It's a great stress reliever.
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  > Sign up and write away.
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  > I feel safe using it.
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  > It's good to write about how you feel.
